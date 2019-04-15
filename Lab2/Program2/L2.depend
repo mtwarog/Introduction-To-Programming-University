@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445176004 source:e:\informatyka\introduction2programming\lecture\l2\l2\main.c
+	<stdio.h>
+	<ctype.h>
+

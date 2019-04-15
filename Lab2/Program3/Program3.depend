@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1445179274 source:e:\informatyka\introduction2programming\laboratory\lab2\program3\main.c
+	<stdio.h>
+	<string.h>
+
+1445261332 source:d:\users\student444-01\downloads\lab2\program3\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1445257732 source:d:\users\student444-03\downloads\lab2\program3\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

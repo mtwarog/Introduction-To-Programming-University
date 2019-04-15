@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1452530946 source:c:\users\quan\desktop\semestr xi\infroduction to programming - l i w\21.12.2015\11.01.2016\lab6\lab6_2\lab6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EvalExpression.h"
+	"Conversion.h"
+
+1452450504 c:\users\quan\desktop\semestr xi\infroduction to programming - l i w\21.12.2015\11.01.2016\lab6\lab6_2\lab6\include\evalexpression.h
+
+1452449636 c:\users\quan\desktop\semestr xi\infroduction to programming - l i w\21.12.2015\11.01.2016\lab6\lab6_2\lab6\include\conversion.h
+
+1453128446 source:c:\users\quan\desktop\semestr xi\infroduction to programming - l i w\21.12.2015\11.01.2016\lab6\lab6_2\lab6\src\conversion.c
+	"Conversion.h"
+	"EvalExpression.h"
+
+1453128510 source:c:\users\quan\desktop\semestr xi\infroduction to programming - l i w\21.12.2015\11.01.2016\lab6\lab6_2\lab6\src\evalexpression.c
+	<stdio.h>
+	"EvalExpression.h"
+

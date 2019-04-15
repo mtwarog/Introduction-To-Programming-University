@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1385316878 source:c:\studies\programming\labs\lab5\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1448895207 source:c:\studies\programming\labs\lab5\calculator\calcfilter.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"evalExpression.h"
+
+1448876668 c:\studies\programming\labs\lab5\calculator\evalexpression.h
+
+1448890686 source:c:\studies\programming\labs\lab5\calculator\evalexpression.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"evalExpression.h"
+
+1453569130 source:c:\users\quan\desktop\semestr xi\infroduction to programming - l i w\23.01.2016\lab5\lab5nc\calculator\calcfilter.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<float.h>
+	"evalExpression.h"
+	"calcFilter.h"
+
+1449522152 c:\users\quan\desktop\semestr xi\infroduction to programming - l i w\23.01.2016\lab5\lab5nc\calculator\evalexpression.h
+
+1448954770 c:\users\quan\desktop\semestr xi\infroduction to programming - l i w\23.01.2016\lab5\lab5nc\calculator\calcfilter.h
+
+1453568095 source:c:\users\quan\desktop\semestr xi\infroduction to programming - l i w\23.01.2016\lab5\lab5nc\calculator\evalexpression.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<float.h>
+	"evalExpression.h"
+
+1453569034 source:c:\users\quan\desktop\semestr xi\infroduction to programming - l i w\23.01.2016\lab5\lab5nc\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"calcFilter.h"
+

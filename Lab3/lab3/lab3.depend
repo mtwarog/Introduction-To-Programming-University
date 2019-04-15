@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1449487802 source:c:\users\quan\desktop\semestr xi\infroduction to programming - l i w\lab5\lab5_materials\lab5_materials\lab3\lab3\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1449487850 source:c:\users\quan\desktop\semestr xi\infroduction to programming - l i w\lab5\lab5_materials\lab5_materials\lab3\lab3\main.c
+
+1449502637 source:d:\users\student444-01\downloads\lab6_assigments\lab3\lab3\main.c
+	<ctype.h>
+	<locale.h>
+	<stdio.h>
+
+1449501886 source:d:\users\student444-01\downloads\lab6_assigments\lab3\lab3\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<locale.h>
+
+1450054093 source:c:\users\quan\desktop\semestr xi\infroduction to programming - l i w\14.12.2015\lab3\lab3\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<locale.h>
+
+1450054048 source:c:\users\quan\desktop\semestr xi\infroduction to programming - l i w\14.12.2015\lab3\lab3\main.c
+	<ctype.h>
+	<stdio.h>
+	<locale.h>
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1450702598 source:c:\users\quan\desktop\semestr xi\infroduction to programming - l i w\16.12.2015\lab4\lab4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1450703360 source:c:\users\quan\desktop\semestr xi\infroduction to programming - l i w\16.12.2015\lab4\lab4\wordutils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1450712037 source:d:\users\student444-02\downloads\21.12.2015\lab4\lab4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1450711985 source:d:\users\student444-02\downloads\21.12.2015\lab4\lab4\wordutils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1453570912 source:c:\users\quan\desktop\semestr xi\infroduction to programming - l i w\23.01.2016\lab4\wordutils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
